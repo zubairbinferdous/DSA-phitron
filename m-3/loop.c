@@ -90,6 +90,7 @@ int main(){
      
     // problem 2 
 
+
     //  int N ;
     //  scanf("%d" , &N);
     //  for (int i = 1; i <= N; i++)
@@ -97,6 +98,8 @@ int main(){
     //     printf("I Love Assignment \n");
     //  }
      
+
+
     // int N;
     // scanf("%d", &N);
     
@@ -145,20 +148,20 @@ int main(){
     
     // printf("%d %d", sumEven, sumOdd);
 
-    int n, x, v;
-    scanf("%d", &n);
+    // int n, x, v;
+    // scanf("%d", &n);
     
-    int a[n];
-    for (int i = 0; i < n; i++) {
-        scanf("%d", &a[i]);
-    }
+    // int a[n];
+    // for (int i = 0; i < n; i++) {
+    //     scanf("%d", &a[i]);
+    // }
     
-    scanf("%d %d", &x, &v);
-    a[x] = v;
+    // scanf("%d %d", &x, &v);
+    // a[x] = v;
     
-    for (int i = n - 1; i >= 0; i--) {
-        printf("%d ", a[i]);
-    }
+    // for (int i = n - 1; i >= 0; i--) {
+    //     printf("%d ", a[i]);
+    // }
 
 
     // int N;
@@ -179,49 +182,21 @@ int main(){
     // }
     
 
-
-    int N;
-    int i;
-    scanf("%d", &N);
+    // int N;
+    // int i;
+    // scanf("%d", &N);
     
-    int A[N];
-    for ( i = 0; i < N; i++) {
-        scanf("%d", &A[i]);
-    }
+    // int A[N];
+    // for( i = 0; i < N; i++) {
+    //     scanf("%d", &A[i]);
+    // }
     
-    for ( i = N - 1; i >= 0; i -= 2) {
-        printf("%d ", A[i]);
-    }
-
-
-    int N;
-    scanf("%d", &N);
-    
-    int A[N];
-    for(int i = 0; i < N; i++) {
-        scanf("%d", &A[i]);
-    }
-    
-    for(int i = N - 2; i >= 0; i -= 2) {
-        printf("%d ", A[i]);
-    }
-    printf("\n");
-
-
-        int N;
-    scanf("%d", &N);
-    
-    int A[N];
-    for(int i = 0; i < N; i++) {
-        scanf("%d", &A[i]);
-    }
-    
-    for(int i = N - 1; i >= 0; i -= 2) {
-        if(i % 2 == 0) {
-            printf("%d ", A[i]);
-        }
-    }
-    printf("\n");
+    // for( i = N - 1; i >= 0; i -= 2) {
+    //     if(i % 2 == 0) {
+    //         printf("%d ", A[i]);
+    //     }
+    // }
+    // printf("\n");
      
      
 

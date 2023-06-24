@@ -4,6 +4,7 @@
 
 #include<stdio.h>
 int main(){
+
     // initialization 
     // condition 
     // increment and decrement  
@@ -150,6 +151,9 @@ int main(){
 
     // int n, x, v;
     // scanf("%d", &n);
+
+
+    // array 
     
     // int a[n];
     // for (int i = 0; i < n; i++) {
